@@ -10,11 +10,16 @@ I am currently honing my skills in the IT sector, with a particular focus on dat
 Skills and Certifications
 
 Programming Languages: Python
+
 Data analysis\Data science Tools: still learning
+
 Certifications:
 Cisco Essentials 1
 Python Essentials 1
+
+
 Projects and Experience
+
 While I am still a student, I have engaged in various projects and coursework that have allowed me to apply my knowledge practically. I am enthusiastic about contributing to open-source projects and collaborating with others to solve complex problems.
 
 Personal Qualities
