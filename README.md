@@ -20,7 +20,7 @@ Python Essentials 1
 
 Projects and Experience
 
-While I am still a student, I have engaged in various projects and coursework that have allowed me to apply my knowledge practically. I am enthusiastic about contributing to open-source projects and collaborating with others to solve complex problems.
+While I am still a student, Still learning about skillss...
 
 Personal Qualities
 
