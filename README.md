@@ -1,27 +1,22 @@
-# My_Dictionary
-About Kedari Sri Venkatesh
+# About me
+Kedari Sri Venkatesh
+B.Sc. Computer Science Student | Aspiring IT and Data Science Professional
 
-Hello! I'm Kedari Sri Venkatesh, a passionate and dedicated student currently pursuing a B.Sc. in Computer Science. I maintain a strong academic record with a GPA of 8.15, demonstrating my commitment to academic excellence and continuous learning.
+Academic and Professional Background
+I am currently pursuing a Bachelor of Science in Computer Science, maintaining a strong academic performance with a GPA of 8.15. My academic journey is focused on building a robust foundation in computer science principles while staying updated with industry trends. I am particularly passionate about the IT sector and have a growing interest in data science.
 
-Professional and Educational Background 
-
-I am currently honing my skills in the IT sector, with a particular focus on data science. My academic journey has on-going with a solid foundation in Bachelor's degree in computer science principles, and I am actively expanding my expertise to align with the demands of the industry.
-
-Skills and Certifications
+Skills
 
 Programming Languages: Python
+Data Analysis: Actively learning
 
-Data analysis\Data science Tools: still learning
+Certifications
 
-Certifications:
 Cisco Essentials 1
 Python Essentials 1
-
-
 Projects and Experience
-
-While I am still a student, Still learning about skillss...
+While I am still advancing in my studies, I am continually building my knowledge and skills through hands-on projects and practical learning experiences.
 
 Personal Qualities
+I am a proactive learner who thrives in collaborative and dynamic environments. My analytical mindset, problem-solving skills, and dedication to continuous improvement make me well-suited to the ever-evolving tech industry.
 
-I am a proactive learner and a problem Analysing who thrives in collaborative environments. My dedication, analytical skills, and passion for technology drive me to continuously improve and adapt in this ever-evolving field.
